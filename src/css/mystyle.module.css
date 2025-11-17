@@ -1,0 +1,14 @@
+.textMargin
+{
+    margin: 10px;
+}
+
+.textPadding
+{
+    padding: 10px;
+}
+
+.boxBorder
+{
+    border: 2px solid red;
+}
