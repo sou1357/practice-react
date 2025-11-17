@@ -12,6 +12,7 @@ import { Dashboard } from "./pages/Dashboard";
 
 function App() {
 // single page application
+// next comment
   return (
     <BrowserRouter>
       <Routes>
