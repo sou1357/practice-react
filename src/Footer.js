@@ -37,7 +37,7 @@ function Footer() {
     return <img src={require(`./imgs/${e}`)}/>
   })
 }
-
+<h1>Copyright 2025</h1>
 
     </div>
   );

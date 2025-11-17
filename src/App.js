@@ -11,7 +11,7 @@ import { Dashboard } from "./pages/Dashboard";
 //jsx JavaScript XML
 
 function App() {
-
+// single page application
   return (
     <BrowserRouter>
       <Routes>
